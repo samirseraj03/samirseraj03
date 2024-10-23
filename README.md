@@ -26,7 +26,7 @@
 </table>
 
 - 📍 Spain
-- 🎂 03/2003
+- 🎂 07/2003
 - 💻 Full-stack developer, Data Science & ML.
 - 🌐 Languages:
   - [🇬🇧] English
