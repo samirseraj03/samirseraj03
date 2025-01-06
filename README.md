@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Samir Seraj. 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=619EF7&random=false&width=450&height=30&lines=Full-stack+Developer;Passionate+about+Frontend;Always+learning+and+improving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=619EF7&random=false&width=450&height=30&lines=Full-stack+Developer;Passionate+about+Backend;Always+learning+and+improving)](https://git.io/typing-svg)
 
 <span style="color: #1982c4">Hello there</span>! This is my GitHub space for personal and academic projects.
 
